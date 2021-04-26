@@ -4,7 +4,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borislavminchev&layout=compact" />
 </div>
 
-- 🌱 I’m currently learning Software Engineer in Faculty of Mathematics and Informatics, Sofia University
+- 🌱 I’m currently learning Computer Science in Faculty of Mathematics and Informatics, Sofia University
 - Email: borislav.minchev01@gmail.com
 - Facebook:
 
