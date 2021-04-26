@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Borislav Minchev's GitHub stats](https://github-readme-stats.vercel.app/api?username=borislavminchev)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borislavminchev)]
+![Borislav Minchev's GitHub stats](https://github-readme-stats.vercel.app/api?username=borislavminchev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borislavminchev&layout=compact)
 <!--
 **borislavminchev/borislavminchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
