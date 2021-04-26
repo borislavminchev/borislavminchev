@@ -6,5 +6,5 @@
 
 - 🌱 I’m currently learning Computer Science in Faculty of Mathematics and Informatics, Sofia University
 - Email: borislav.minchev01@gmail.com
-- Facebook:
+- Facebook: https://www.facebook.com/borislav.mintchev
 
